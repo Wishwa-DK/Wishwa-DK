@@ -1,4 +1,6 @@
-[Github Banner]https://github.com/Wishwa-DK/Wishwa-DK/blob/main/Github%20Banner.jpg
+<p align="center">
+  <img src="https://github.com/Wishwa-DK/Wishwa-DK/blob/main/Github%20Banner.jpg?raw=true" alt="GitHub Banner" />
+</p>
 
 ## Hi there 👋
 
