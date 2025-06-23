@@ -1,3 +1,5 @@
+[Github Banner]https://github.com/Wishwa-DK/Wishwa-DK/blob/main/Github%20Banner.jpg
+
 ## Hi there 👋
 
 <!--
