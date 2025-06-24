@@ -7,7 +7,9 @@
 <h1 align="center">Hi there 👋, I'm Wishwa Diwanka  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
 <h3 align="center">Passionate Cybersecurity University Student | Securing the Digital World👩‍💻</h3>
   
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rasan2001&label=Profile%20views&color=0e75b6&style=flat" alt="rasan2001" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Wishwa-DK&label=Profile%20views&color=0e75b6&style=flat" alt="Wishwa-DK" />
+</p>
 
 
 <!--
