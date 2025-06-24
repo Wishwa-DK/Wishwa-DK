@@ -52,13 +52,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
   </a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
@@ -67,20 +61,14 @@
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/wireshark/1679A3" alt="wireshark" width="40" height="40"/>
   </a>
-   <a href="https://www.netacad.com/courses/packet-tracer" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Cisco_academy_logo.png" alt="cisco" width="40" height="40"/>
+  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/metasploit/0F0F0F" alt="metasploit" width="40" height="40"/>
   </a>
-  <a href="https://nmap.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Nmap-logo.svg" alt="nmap" width="40" height="40"/>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
   </a>
-  <a href="https://www.tenable.com/products/nessus" target="_blank">
-    <img src="https://seeklogo.com/images/N/nessus-logo-5F97B95F98-seeklogo.com.png" alt="nessus" width="40" height="40"/>
-  </a>
-  <a href="https://www.kali.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Kali-dragon-icon.svg" alt="kali" width="40" height="40"/>
-  </a>
-  <a href="https://www.metasploit.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Metasploit_logo.png" alt="metasploit" width="40" height="40"/>
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
   </a>
 </p>
 
