@@ -19,11 +19,11 @@
 - 🔐 Interested in **Ethical Hacking, Penetration Testing, and IT GRC practices**
 - 📫 Reach me at: **[wishwa16diwanka@gmail.com](mailto:wishwa16diwanka@gmail.com)**
 
-- <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/rasan-dushmantha-711b14289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasan dushmantha" height="30" width="40" /></a>
-<a href="https://fb.com/rasan dushmantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rasan dushmantha" height="30" width="40" /></a>
-<a href="https://instagram.com/rasan dushmantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rasan dushmantha" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/wishwa-diwanka-083bb72a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Wishwa Diwanka" height="30" width="40" /></a>
+<a href="https://www.facebook.com/wishwa.diwanka.2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Wishwa Diwanka" height="30" width="40" /></a>
+<a href="https://instagram.com/Wishwadiwanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Wishwa Diwanka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
