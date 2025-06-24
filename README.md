@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://github.com/Wishwa-DK/Wishwa-DK/blob/main/Github%20Banner.jpg?raw=true" alt="GitHub Banner" />
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<center><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></center>
 
 ## Hi there 👋
 
