@@ -11,6 +11,18 @@
   <img src="https://komarev.com/ghpvc/?username=Wishwa-DK&label=Profile%20views&color=0e75b6&style=flat" alt="Wishwa-DK" />
 </p>
 
+## 👨‍💻 About Me
+
+<img align="right" width="250px" height="200px" alt="Github" src="https://github.com/Wishwa-DK/Wishwa-DK/blob/main/Github%20Banner.jpg" />
+
+I'm a Cybersecurity undergraduate at SLIIT with a strong interest in ethical hacking, risk management, and secure system design.  
+My academic background includes hands-on experience in penetration testing, vulnerability assessment, and incident response.  
+I'm also exploring IT Governance, Risk, and Compliance (GRC) as part of my broader understanding of organizational security frameworks.
+
+- 🌱 Currently pursuing **BSc (Hons) in Information Technology** specializing in **Cybersecurity**
+- 🔐 Interested in **Ethical Hacking, Penetration Testing, and IT GRC practices**
+- 📫 Reach me at: **[wishwa16diwanka@gmail.com](mailto:wishwa16diwanka@gmail.com)**
+
 
 <!--
 **Wishwa-DK/Wishwa-DK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
