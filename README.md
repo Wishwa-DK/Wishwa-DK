@@ -110,7 +110,7 @@
 
   <!-- Photoshop -->
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/303170/adobe-photoshop-cs6-logo.svg" alt="Photoshop CS6" width="40" height="40"/>
   </a>
 
 </p>
