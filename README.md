@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-<p align="justify">I'm a Cybersecurity undergraduate at SLIIT with a strong interest in ethical hacking, risk management, and secure system design. My academic background includes hands-on experience in penetration testing, vulnerability assessment, and incident response. I'm also exploring IT Governance, Risk, and Compliance (GRC) as part of my broader understanding of organizational security frameworks.</p>
+<p align="left">I'm a Cybersecurity undergraduate at SLIIT with a strong interest in ethical hacking, risk management, and secure system design. My academic background includes hands-on experience in penetration testing, vulnerability assessment, and incident response. I'm also exploring IT Governance, Risk, and Compliance (GRC) as part of my broader understanding of organizational security frameworks.</p>
 
 - 🌱 Currently pursuing **BSc (Hons) in Information Technology** specializing in **Cybersecurity**
 - 🔐 Interested in **Ethical Hacking, Penetration Testing, and IT GRC practices**
