@@ -88,11 +88,6 @@
     <img src="https://cdn.simpleicons.org/wireshark/1679A3" alt="wireshark" width="40" height="40"/>
   </a>
 
-  <!-- Metasploit -->
-  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rapid7/metasploit-framework/master/documentation/images/metasploit-logo-blue.png" alt="metasploit" width="40" height="40"/>
-  </a>
-
   <!-- OWASP -->
   <a href="https://owasp.org/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/439251/owasp.svg" alt="owasp" width="40" height="40"/>
@@ -108,11 +103,6 @@
     <img src="https://raw.githubusercontent.com/flathub/com.github.skylot.jadx/master/jadx-logo.svg" alt="jadx" width="40" height="40"/>
   </a>
 
-  <!-- FL Studio -->
-  <a href="https://www.image-line.com/flstudio/" target="_blank" rel="noreferrer">
-    <img src="https://icons.iconarchive.com/icons/azuresol/sketchy/128/Fl-Studio-icon.png" alt="fl studio" width="40" height="40"/>
-  </a>
-
   <!-- Illustrator -->
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
@@ -124,54 +114,6 @@
   </a>
 
 </p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/burpsuite/FF6600" alt="burpsuite" width="40" height="40"/>
-  </a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/wireshark/1679A3" alt="wireshark" width="40" height="40"/>
-  </a>
-  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/metasploit/0F0F0F" alt="metasploit" width="40" height="40"/>
-  </a>
-    <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-</p>
-
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
